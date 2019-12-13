@@ -3999,8 +3999,9 @@ window.application = new Application();
 						<rect fill="rgba(247,250,252,1)" id="Rectangle_1489_ei" rx="5" ry="5" x="0" y="0" width="77" height="42">
 						</rect>
 					</svg>
+					Due Date
 					<div id="Due_Date_ej">
-						<span>Due Date</span>
+						<span><input type="date" name="start" placeholder="Expected Start"></span>
 					</div>
 				</div>
 			</div>
@@ -4012,7 +4013,10 @@ window.application = new Application();
 					</rect>
 				</svg>
 				<div id="Enter_a_description_">
-					<span>Enter a description…</span>
+					<span>
+						Enter a description… <br>
+						<textarea name="message" placeholder="Enter a Description…" value="Random Description" rows="10" cols="30">This is a random description, which can be modified.</textarea>
+					</span>
 				</div>
 			</div>
 		</div>
@@ -4024,11 +4028,17 @@ window.application = new Application();
 				</rect>
 			</svg>
 			<div id="Add_requirements_">
-				<span>Add requirements…</span>
+				<span>Add requirements…   <input type="text" name="title" placeholder="Enter a Title…" value="New Requirement"> <br>
+					<input type="checkbox" name="1" value="Task1"> Requirement 1 <br>
+					<input type="checkbox" name="2" value="Task2"> Requirement 2 <br>
+					<input type="checkbox" name="1" value="Task1"> Requirement 3
+				</span>
 			</div>
 		</div>
 		<div id="Group_300_es">
 			<div id="Group_22_et">
+				<button onclick="alert('This Deliverable has been created')">
+				<a href="/deliverables">
 				<svg class="Rectangle_1498_eu">
 					<rect fill="rgba(119,100,228,1)" id="Rectangle_1498_eu" rx="5" ry="5" x="0" y="0" width="100" height="45">
 					</rect>
@@ -4036,8 +4046,11 @@ window.application = new Application();
 				<div id="Create">
 					<span>Create</span>
 				</div>
+			</a></button>
 			</div>
 			<div id="Group_23_ew">
+				<button onclick="alert('This Deliverable has been CANCELED')">
+				<a href="/deliverables">
 				<svg class="Rectangle_1498_ex">
 					<rect fill="rgba(255,255,255,1)" stroke="rgba(245,60,86,1)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="Rectangle_1498_ex" rx="5" ry="5" x="0" y="0" width="100" height="45">
 					</rect>
@@ -4045,6 +4058,7 @@ window.application = new Application();
 				<div id="Cancel">
 					<span>Cancel</span>
 				</div>
+			</a></button>
 			</div>
 		</div>
 	</div>
@@ -4055,7 +4069,7 @@ window.application = new Application();
 				</rect>
 			</svg>
 			<div id="Enter_a_Title_">
-				<span>Enter a Title…</span>
+				<span>Enter a Title   <input type="text" name="title" placeholder="Enter a Title…" value="Random title"></span>
 			</div>
 		</div>
 	</div>

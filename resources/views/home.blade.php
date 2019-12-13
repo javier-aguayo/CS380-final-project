@@ -4091,6 +4091,7 @@ window.application = new Application();
 			</div>
 		</div>
 		<div id="Group_135">
+			<a href="/dashboard">
 			<svg class="Rectangle_1511">
 				<rect fill="rgba(255,255,255,1)" id="Rectangle_1511" rx="0" ry="0" x="0" y="0" width="1100" height="75">
 				</rect>
@@ -4179,7 +4180,7 @@ window.application = new Application();
 						</ellipse>
 					</svg>
 				</div>
-			</div>
+			</div></a>
 		</div>
 		<div id="Group_136">
 			<svg class="Rectangle_1511_du">

@@ -43,16 +43,16 @@
 	.Rectangle_1493 {
 		position: absolute;
 		overflow: visible;
-		width: 1301px;
+		width: 1121px;
 		height: 378px;
-		left: 65px;
+		left: 245px;
 		top: 0px;
 	}
 	#Group_15 {
 		position: absolute;
 		width: 247px;
 		height: 50px;
-		left: 115px;
+		left: 295px;
 		top: 20px;
 		overflow: visible;
 	}
@@ -70,7 +70,7 @@
 		position: absolute;
 		width: 20.414px;
 		height: 20.414px;
-		left: 20px;
+		left: 20.548px;
 		top: 15px;
 		overflow: visible;
 	}
@@ -79,7 +79,7 @@
 		overflow: visible;
 		width: 18px;
 		height: 18px;
-		left: 1px;
+		left: 0.452px;
 		top: 1px;
 	}
 	.Line_11 {
@@ -202,7 +202,7 @@
 	}
 	#Some_Project {
 		position: absolute;
-		left: 90px;
+		left: 270px;
 		top: 114px;
 		overflow: visible;
 		width: 161px;
@@ -214,64 +214,11 @@
 		font-size: 25px;
 		color: rgba(255,255,255,1);
 	}
-	#Group_171 {
-		position: absolute;
-		width: 65px;
-		height: 2008px;
-		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
-	.Rectangle_1490 {
-		position: absolute;
-		overflow: visible;
-		width: 65px;
-		height: 2008px;
-		left: 0px;
-		top: 0px;
-	}
-	#bar_chart_2 {
-		transform: translate(0px, 0px) matrix(1,0,0,1,27,29) rotate(-90deg);
-		transform-origin: center;
-		position: absolute;
-		width: 12px;
-		height: 16px;
-		left: 0px;
-		top: 0px;
-		overflow: visible;
-	}
-	.Line_1 {
-		overflow: visible;
-		position: absolute;
-		width: 18px;
-		height: 2px;
-		left: 0px;
-		top: 0px;
-		transform: matrix(1,0,0,1,0,0);
-	}
-	.Line_2 {
-		overflow: visible;
-		position: absolute;
-		width: 18px;
-		height: 2px;
-		left: 0px;
-		top: 6px;
-		transform: matrix(1,0,0,1,0,0);
-	}
-	.Line_3 {
-		overflow: visible;
-		position: absolute;
-		width: 18px;
-		height: 2px;
-		left: 0px;
-		top: 12px;
-		transform: matrix(1,0,0,1,0,0);
-	}
 	#Group_16 {
 		position: absolute;
 		width: 152px;
 		height: 22px;
-		left: 283px;
+		left: 460px;
 		top: 114px;
 		overflow: visible;
 	}
@@ -301,7 +248,7 @@
 		top: 11px;
 		transform: matrix(1,0,0,1,0,0);
 	}
-	#Home_b {
+	#Home_bu {
 		position: absolute;
 		left: 35px;
 		top: 7px;
@@ -333,7 +280,7 @@
 		font-size: 11px;
 		color: rgba(246,249,252,1);
 	}
-	#Action_Items_b {
+	#Action_Items_bw {
 		position: absolute;
 		left: 91px;
 		top: 7px;
@@ -351,9 +298,9 @@
 	}
 	#Group_297 {
 		position: absolute;
-		width: 740.5px;
+		width: 754.048px;
 		height: 552px;
-		left: 224px;
+		left: 350px;
 		top: 616px;
 		overflow: visible;
 	}
@@ -361,7 +308,7 @@
 		filter: drop-shadow(0px 3px 6px rgba(44, 40, 40, 0.11));
 		position: absolute;
 		overflow: visible;
-		width: 758px;
+		width: 771px;
 		height: 570px;
 		left: 0px;
 		top: 0px;
@@ -388,9 +335,9 @@
 	.Line_41 {
 		overflow: visible;
 		position: absolute;
-		width: 740px;
+		width: 753px;
 		height: 0.5px;
-		left: 0.5px;
+		left: 1.048px;
 		top: 80.5px;
 		transform: matrix(1,0,0,1,0,0);
 	}
@@ -398,7 +345,7 @@
 		position: absolute;
 		width: 80px;
 		height: 35px;
-		left: 630px;
+		left: 643px;
 		top: 23px;
 		overflow: visible;
 	}
@@ -465,7 +412,7 @@
 	}
 	#Some_Action_Item {
 		position: absolute;
-		left: 30.08px;
+		left: 30.628px;
 		top: 19.385px;
 		overflow: visible;
 		width: 119px;
@@ -497,28 +444,28 @@
 	}
 	#Group_301 {
 		position: absolute;
-		width: 670px;
+		width: 683px;
 		height: 298px;
-		left: 254px;
+		left: 359px;
 		top: 851px;
 		overflow: visible;
 	}
 	#Group_198 {
 		position: absolute;
-		width: 670px;
+		width: 683px;
 		height: 100px;
 		left: 0px;
 		top: 133px;
 		overflow: visible;
 	}
-	#Rectangle_1489_ci {
+	#Rectangle_1489_cc {
 		opacity: 0.8;
 	}
-	.Rectangle_1489_ci {
+	.Rectangle_1489_cc {
 		filter: drop-shadow(0px 2px 4px rgba(23, 23, 23, 0.18));
 		position: absolute;
 		overflow: visible;
-		width: 682px;
+		width: 695px;
 		height: 112px;
 		left: 0px;
 		top: 0px;
@@ -528,7 +475,7 @@
 		left: 30px;
 		top: 22px;
 		overflow: hidden;
-		width: 610px;
+		width: 623px;
 		height: 56px;
 		line-height: 17px;
 		margin-top: -2px;
@@ -559,7 +506,7 @@
 		position: absolute;
 		width: 220px;
 		height: 45px;
-		left: 450px;
+		left: 463px;
 		top: 253px;
 		overflow: visible;
 	}
@@ -571,7 +518,7 @@
 		top: 0px;
 		overflow: visible;
 	}
-	.Rectangle_1498_cn {
+	.Rectangle_1498_ch {
 		filter: drop-shadow(0px 3px 6px rgba(44, 40, 40, 0.11));
 		position: absolute;
 		overflow: visible;
@@ -604,7 +551,7 @@
 		top: 0px;
 		overflow: visible;
 	}
-	.Rectangle_1498_cq {
+	.Rectangle_1498_ck {
 		filter: drop-shadow(0px 3px 6px rgba(44, 40, 40, 0.11));
 		position: absolute;
 		overflow: visible;
@@ -629,21 +576,21 @@
 		font-size: 15px;
 		color: rgba(245,60,86,1);
 	}
-	#Rectangle_1489_cs {
+	#Rectangle_1489_cm {
 		opacity: 0.8;
 	}
-	.Rectangle_1489_cs {
+	.Rectangle_1489_cm {
 		filter: drop-shadow(0px 2px 4px rgba(23, 23, 23, 0.18));
 		position: absolute;
 		overflow: visible;
 		width: 538px;
 		height: 62px;
-		left: 144px;
+		left: 157px;
 		top: 30px;
 	}
 	#Status_Description {
 		position: absolute;
-		left: 144px;
+		left: 147px;
 		top: 0px;
 		overflow: visible;
 		width: 123px;
@@ -659,7 +606,7 @@
 	}
 	#Show_More_Link {
 		position: absolute;
-		left: 650px;
+		left: 723px;
 		top: 438px;
 		overflow: visible;
 		width: 61px;
@@ -675,9 +622,9 @@
 	}
 	#Group_318 {
 		position: absolute;
-		width: 741px;
+		width: 754px;
 		height: 396px;
-		left: 224px;
+		left: 350px;
 		top: 180px;
 		overflow: visible;
 	}
@@ -685,7 +632,7 @@
 		filter: drop-shadow(0px 3px 6px rgba(44, 40, 40, 0.11));
 		position: absolute;
 		overflow: visible;
-		width: 759px;
+		width: 772px;
 		height: 414px;
 		left: 0px;
 		top: 0px;
@@ -694,7 +641,7 @@
 		position: absolute;
 		width: 80px;
 		height: 35px;
-		left: 642px;
+		left: 655px;
 		top: 14px;
 		overflow: visible;
 	}
@@ -722,8 +669,8 @@
 	}
 	#No_longer_needed_ {
 		position: absolute;
-		left: 411.08px;
-		top: 898px;
+		left: 531.699px;
+		top: 899px;
 		overflow: visible;
 		width: 124px;
 		white-space: nowrap;
@@ -740,7 +687,7 @@
 		position: absolute;
 		width: 96px;
 		height: 80px;
-		left: 254px;
+		left: 370px;
 		top: 851px;
 		overflow: visible;
 	}
@@ -760,10 +707,10 @@
 		top: 30px;
 		overflow: visible;
 	}
-	#Rectangle_1489_c {
+	#Rectangle_1489_cy {
 		opacity: 0.8;
 	}
-	.Rectangle_1489_c {
+	.Rectangle_1489_cy {
 		filter: drop-shadow(0px 2px 4px rgba(23, 23, 23, 0.18));
 		position: absolute;
 		overflow: visible;
@@ -772,9 +719,9 @@
 		left: 0px;
 		top: 0px;
 	}
-	#Closed_c {
+	#Closed_cz {
 		position: absolute;
-		left: 10.932px;
+		left: 11.226px;
 		top: 17.385px;
 		overflow: visible;
 		width: 48px;
@@ -805,7 +752,7 @@
 		color: rgba(23,43,77,1);
 	}
 	#button_next {
-		transform: translate(-256px, -975px) matrix(1,0,0,1,319.5,1019.5) rotate(90deg);
+		transform: translate(0px, 0px) matrix(1,0,0,1,63.5,44.5) rotate(90deg);
 		transform-origin: center;
 		position: absolute;
 		width: 28px;
@@ -835,8 +782,8 @@
 		position: absolute;
 		width: 454px;
 		height: 80px;
-		left: 498px;
-		top: 745px;
+		left: 615px;
+		top: 746px;
 		overflow: visible;
 	}
 	#Group_303 {
@@ -847,7 +794,7 @@
 		top: 0px;
 		overflow: visible;
 	}
-	#Group_193_dc {
+	#Group_193_c {
 		position: absolute;
 		width: 454px;
 		height: 50px;
@@ -855,10 +802,10 @@
 		top: 30px;
 		overflow: visible;
 	}
-	#Rectangle_1489_dd {
+	#Rectangle_1489_c {
 		opacity: 0.8;
 	}
-	.Rectangle_1489_dd {
+	.Rectangle_1489_c {
 		filter: drop-shadow(0px 2px 4px rgba(23, 23, 23, 0.18));
 		position: absolute;
 		overflow: visible;
@@ -869,7 +816,7 @@
 	}
 	#Samantha_Ivy {
 		position: absolute;
-		left: 8.11px;
+		left: 8.329px;
 		top: 21px;
 		overflow: visible;
 		width: 93px;
@@ -899,8 +846,8 @@
 		font-size: 15px;
 		color: rgba(23,43,77,1);
 	}
-	#button_next_dg {
-		transform: translate(-256px, -862px) matrix(1,0,0,1,677.5,903.5) rotate(90deg);
+	#button_next_da {
+		transform: translate(0px, 0px) matrix(1,0,0,1,421.5002,41.5) rotate(90deg);
 		transform-origin: center;
 		position: absolute;
 		width: 28px;
@@ -909,7 +856,7 @@
 		top: 0px;
 		overflow: visible;
 	}
-	.Rectangle_156_dh {
+	.Rectangle_156_db {
 		position: absolute;
 		overflow: visible;
 		width: 27px;
@@ -917,7 +864,7 @@
 		left: 0px;
 		top: 0px;
 	}
-	.Path_294_di {
+	.Path_294_dc {
 		overflow: visible;
 		position: absolute;
 		width: 13.694px;
@@ -928,9 +875,9 @@
 	}
 	#Group_323 {
 		position: absolute;
-		width: 702px;
+		width: 702.316px;
 		height: 360px;
-		left: 250px;
+		left: 367px;
 		top: 207px;
 		overflow: visible;
 	}
@@ -942,7 +889,7 @@
 		top: 0px;
 		overflow: visible;
 	}
-	#Show_More_Link_dl {
+	#Show_More_Link_df {
 		position: absolute;
 		left: 321px;
 		top: 342px;
@@ -958,7 +905,7 @@
 		font-size: 13px;
 		color: rgba(59,134,255,1);
 	}
-	#Action_Items_dm {
+	#Action_Items_dg {
 		position: absolute;
 		left: 0px;
 		top: 0px;
@@ -974,7 +921,7 @@
 	}
 	#Req_list {
 		position: absolute;
-		width: 694px;
+		width: 694.316px;
 		height: 298.669px;
 		left: 8px;
 		top: 33px;
@@ -982,7 +929,7 @@
 	}
 	#Table {
 		position: absolute;
-		width: 694px;
+		width: 694.316px;
 		height: 298.669px;
 		left: 0px;
 		top: 0px;
@@ -992,11 +939,11 @@
 		position: absolute;
 		width: 693.478px;
 		height: 253.816px;
-		left: 0px;
+		left: 0.838px;
 		top: 44.853px;
 		overflow: hidden;
 	}
-	#row_invoice_dq {
+	#row_invoice_dk {
 		position: absolute;
 		width: 1078.96px;
 		height: 51px;
@@ -1053,7 +1000,7 @@
 		font-size: 13px;
 		color: rgba(77,79,92,1);
 	}
-	#Some_Action_Item_dv {
+	#Some_Action_Item_dp {
 		position: absolute;
 		left: 61px;
 		top: 17px;
@@ -1069,7 +1016,7 @@
 		font-size: 13px;
 		color: rgba(77,79,92,1);
 	}
-	#Excepteur_sint_occaecat_cupida_dw {
+	#Excepteur_sint_occaecat_cupida_dq {
 		position: absolute;
 		left: 411px;
 		top: 16px;
@@ -1101,7 +1048,7 @@
 		font-size: 13px;
 		color: rgba(77,79,92,1);
 	}
-	#ID9_15_2020_dy {
+	#ID9_15_2020_ds {
 		position: absolute;
 		left: 292px;
 		top: 17px;
@@ -1117,7 +1064,7 @@
 		font-size: 13px;
 		color: rgba(77,79,92,1);
 	}
-	#row_invoice_dz {
+	#row_invoice_dt {
 		position: absolute;
 		width: 1078.96px;
 		height: 51px;
@@ -1125,7 +1072,7 @@
 		top: 51px;
 		overflow: visible;
 	}
-	.Divider_d {
+	.Divider_du {
 		position: absolute;
 		overflow: visible;
 		width: 1078.96px;
@@ -1133,7 +1080,7 @@
 		left: 0px;
 		top: 50px;
 	}
-	.Row_BG_d {
+	.Row_BG_dv {
 		overflow: visible;
 		position: absolute;
 		width: 1078.96px;
@@ -1174,7 +1121,7 @@
 		font-size: 13px;
 		color: rgba(77,79,92,1);
 	}
-	#Some_Action_Item_d {
+	#Some_Action_Item_dy {
 		position: absolute;
 		left: 61px;
 		top: 17px;
@@ -1190,7 +1137,7 @@
 		font-size: 13px;
 		color: rgba(77,79,92,1);
 	}
-	#Excepteur_sint_occaecat_cupida_d {
+	#Excepteur_sint_occaecat_cupida_dz {
 		position: absolute;
 		left: 411px;
 		top: 16px;
@@ -1246,7 +1193,7 @@
 		top: 102px;
 		overflow: visible;
 	}
-	.Divider_ea {
+	.Divider_d {
 		position: absolute;
 		overflow: visible;
 		width: 1078.96px;
@@ -1254,7 +1201,7 @@
 		left: 0px;
 		top: 50px;
 	}
-	.Row_BG_ea {
+	.Row_BG_d {
 		overflow: visible;
 		position: absolute;
 		width: 1078.96px;
@@ -1295,7 +1242,7 @@
 		font-size: 13px;
 		color: rgba(77,79,92,1);
 	}
-	#Some_Action_Item_ed {
+	#Some_Action_Item_d {
 		position: absolute;
 		left: 61px;
 		top: 17px;
@@ -1311,7 +1258,7 @@
 		font-size: 13px;
 		color: rgba(77,79,92,1);
 	}
-	#Excepteur_sint_occaecat_cupida_ee {
+	#Excepteur_sint_occaecat_cupida_d {
 		position: absolute;
 		left: 411px;
 		top: 16px;
@@ -1327,7 +1274,7 @@
 		font-size: 13px;
 		color: rgba(77,79,92,1);
 	}
-	#ID9_15_2020_ef {
+	#ID9_15_2020_ec {
 		position: absolute;
 		left: 182px;
 		top: 17px;
@@ -1343,7 +1290,7 @@
 		font-size: 13px;
 		color: rgba(77,79,92,1);
 	}
-	#ID9_15_2020_eg {
+	#ID9_15_2020_ed {
 		position: absolute;
 		left: 292px;
 		top: 17px;
@@ -1359,7 +1306,7 @@
 		font-size: 13px;
 		color: rgba(77,79,92,1);
 	}
-	#row_invoice_eh {
+	#row_invoice_eb {
 		position: absolute;
 		width: 1078.96px;
 		height: 51px;
@@ -1367,7 +1314,7 @@
 		top: 153px;
 		overflow: visible;
 	}
-	.Divider_ei {
+	.Divider_ec {
 		position: absolute;
 		overflow: visible;
 		width: 1078.96px;
@@ -1375,7 +1322,7 @@
 		left: 0px;
 		top: 50px;
 	}
-	.Row_BG_ej {
+	.Row_BG_ed {
 		overflow: visible;
 		position: absolute;
 		width: 1078.96px;
@@ -1384,7 +1331,7 @@
 		top: 0px;
 		transform: matrix(1,0,0,1,0,0);
 	}
-	#ID9_15_2020_ek {
+	#ID9_15_2020_ee {
 		position: absolute;
 		left: 939px;
 		top: 17px;
@@ -1416,7 +1363,7 @@
 		font-size: 13px;
 		color: rgba(77,79,92,1);
 	}
-	#Some_Action_Item_em {
+	#Some_Action_Item_eg {
 		position: absolute;
 		left: 61px;
 		top: 17px;
@@ -1432,7 +1379,7 @@
 		font-size: 13px;
 		color: rgba(77,79,92,1);
 	}
-	#Excepteur_sint_occaecat_cupida_en {
+	#Excepteur_sint_occaecat_cupida_eh {
 		position: absolute;
 		left: 411px;
 		top: 16px;
@@ -1448,7 +1395,7 @@
 		font-size: 13px;
 		color: rgba(77,79,92,1);
 	}
-	#ID9_15_2020_eo {
+	#ID9_15_2020_ei {
 		position: absolute;
 		left: 182px;
 		top: 17px;
@@ -1464,7 +1411,7 @@
 		font-size: 13px;
 		color: rgba(77,79,92,1);
 	}
-	#ID9_15_2020_ep {
+	#ID9_15_2020_ej {
 		position: absolute;
 		left: 292px;
 		top: 17px;
@@ -1480,7 +1427,7 @@
 		font-size: 13px;
 		color: rgba(77,79,92,1);
 	}
-	#row_invoice_eq {
+	#row_invoice_ek {
 		position: absolute;
 		width: 1078.96px;
 		height: 51px;
@@ -1488,7 +1435,7 @@
 		top: 204px;
 		overflow: visible;
 	}
-	.Divider_er {
+	.Divider_el {
 		position: absolute;
 		overflow: visible;
 		width: 1078.96px;
@@ -1496,7 +1443,7 @@
 		left: 0px;
 		top: 50px;
 	}
-	.Row_BG_es {
+	.Row_BG_em {
 		overflow: visible;
 		position: absolute;
 		width: 1078.96px;
@@ -1505,7 +1452,7 @@
 		top: 0px;
 		transform: matrix(1,0,0,1,0,0);
 	}
-	#ID9_15_2020_et {
+	#ID9_15_2020_en {
 		position: absolute;
 		left: 939px;
 		top: 17px;
@@ -1537,7 +1484,7 @@
 		font-size: 13px;
 		color: rgba(77,79,92,1);
 	}
-	#Some_Action_Item_ev {
+	#Some_Action_Item_ep {
 		position: absolute;
 		left: 61px;
 		top: 17px;
@@ -1553,7 +1500,7 @@
 		font-size: 13px;
 		color: rgba(77,79,92,1);
 	}
-	#Excepteur_sint_occaecat_cupida_ew {
+	#Excepteur_sint_occaecat_cupida_eq {
 		position: absolute;
 		left: 411px;
 		top: 16px;
@@ -1569,7 +1516,7 @@
 		font-size: 13px;
 		color: rgba(77,79,92,1);
 	}
-	#ID9_15_2020_ex {
+	#ID9_15_2020_er {
 		position: absolute;
 		left: 182px;
 		top: 17px;
@@ -1585,7 +1532,7 @@
 		font-size: 13px;
 		color: rgba(77,79,92,1);
 	}
-	#ID9_15_2020_ey {
+	#ID9_15_2020_es {
 		position: absolute;
 		left: 292px;
 		top: 17px;
@@ -1617,7 +1564,7 @@
 		left: 0px;
 		top: 0px;
 	}
-	#__e {
+	#__ev {
 		position: absolute;
 		left: 20px;
 		top: 16px;
@@ -1631,7 +1578,7 @@
 		font-size: 11px;
 		color: rgba(163,166,180,1);
 	}
-	#Title_e {
+	#Title_ew {
 		position: absolute;
 		left: 58px;
 		top: 16px;
@@ -1673,7 +1620,7 @@
 		font-size: 11px;
 		color: rgba(163,166,180,1);
 	}
-	#Description_e {
+	#Description_ez {
 		position: absolute;
 		left: 411px;
 		top: 16px;
@@ -1686,6 +1633,533 @@
 		font-weight: bold;
 		font-size: 11px;
 		color: rgba(163,166,180,1);
+	}
+	#Group_346 {
+		position: absolute;
+		width: 245px;
+		height: 1196px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	.Rectangle_1490 {
+		position: absolute;
+		overflow: visible;
+		width: 245px;
+		height: 1196px;
+		left: 0px;
+		top: 0px;
+	}
+	#Group_7 {
+		position: absolute;
+		width: 214px;
+		height: 25px;
+		left: 20px;
+		top: 24px;
+		overflow: visible;
+	}
+	#bar_chart_2 {
+		transform: translate(0px, 0px) matrix(1,0,0,1,198,1) rotate(-90deg);
+		transform-origin: center;
+		position: absolute;
+		width: 14px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	.Line_1 {
+		overflow: visible;
+		position: absolute;
+		width: 12px;
+		height: 2px;
+		left: 7px;
+		top: 1px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	.Line_2 {
+		overflow: visible;
+		position: absolute;
+		width: 18px;
+		height: 2px;
+		left: 1px;
+		top: 7px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	.Line_3 {
+		overflow: visible;
+		position: absolute;
+		width: 8px;
+		height: 2px;
+		left: 11px;
+		top: 13px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#PMS {
+		position: absolute;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+		width: 55px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Gotham, Gotham;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 25px;
+		color: rgba(255,255,255,1);
+	}
+	#Repeat_Grid_11 {
+		position: absolute;
+		width: 225px;
+		height: 494px;
+		left: 10px;
+		top: 83px;
+		overflow: hidden;
+	}
+	#Group_295 {
+		position: absolute;
+		width: 225px;
+		height: 494px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_5 {
+		position: absolute;
+		width: 225px;
+		height: 55px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	.Rectangle_1491 {
+		position: absolute;
+		overflow: visible;
+		width: 225px;
+		height: 55px;
+		left: 0px;
+		top: 0px;
+	}
+	#Home_fc {
+		position: absolute;
+		left: 50px;
+		top: 23px;
+		overflow: visible;
+		width: 36px;
+		white-space: nowrap;
+		line-height: 20px;
+		margin-top: -3.5px;
+		text-align: left;
+		font-family: Gotham, Gotham;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 13px;
+		color: rgba(255,255,255,1);
+	}
+	#Group_6 {
+		position: absolute;
+		width: 225px;
+		height: 55px;
+		left: 0px;
+		top: 55px;
+		overflow: visible;
+	}
+	.Rectangle_1492 {
+		position: absolute;
+		overflow: visible;
+		width: 225px;
+		height: 55px;
+		left: 0px;
+		top: 0px;
+	}
+	#Dashboard {
+		opacity: 0.8;
+		position: absolute;
+		left: 50px;
+		top: 23px;
+		overflow: visible;
+		width: 65px;
+		white-space: nowrap;
+		line-height: 20px;
+		margin-top: -3.5px;
+		text-align: left;
+		font-family: Gotham, Gotham;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 13px;
+		color: rgba(255,255,255,1);
+	}
+	#Group_8 {
+		position: absolute;
+		width: 225px;
+		height: 55px;
+		left: 0px;
+		top: 110px;
+		overflow: visible;
+	}
+	.Rectangle_1492_fh {
+		position: absolute;
+		overflow: visible;
+		width: 225px;
+		height: 55px;
+		left: 0px;
+		top: 0px;
+	}
+	#Deliverables {
+		opacity: 0.8;
+		position: absolute;
+		left: 50px;
+		top: 23px;
+		overflow: visible;
+		width: 73px;
+		white-space: nowrap;
+		line-height: 20px;
+		margin-top: -3.5px;
+		text-align: left;
+		font-family: Gotham, Gotham;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 13px;
+		color: rgba(255,255,255,1);
+	}
+	#Group_9 {
+		position: absolute;
+		width: 225px;
+		height: 55px;
+		left: 0px;
+		top: 165px;
+		overflow: visible;
+	}
+	.Rectangle_1492_fk {
+		position: absolute;
+		overflow: visible;
+		width: 225px;
+		height: 55px;
+		left: 0px;
+		top: 0px;
+	}
+	#Tasks {
+		opacity: 0.8;
+		position: absolute;
+		left: 50px;
+		top: 23px;
+		overflow: visible;
+		width: 34px;
+		white-space: nowrap;
+		line-height: 20px;
+		margin-top: -3.5px;
+		text-align: left;
+		font-family: Gotham, Gotham;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 13px;
+		color: rgba(255,255,255,1);
+	}
+	#Group_10 {
+		position: absolute;
+		width: 225px;
+		height: 55px;
+		left: 0px;
+		top: 220px;
+		overflow: visible;
+	}
+	.Rectangle_1492_fn {
+		position: absolute;
+		overflow: visible;
+		width: 225px;
+		height: 55px;
+		left: 0px;
+		top: 0px;
+	}
+	#Issues {
+		opacity: 0.8;
+		position: absolute;
+		left: 50px;
+		top: 23px;
+		overflow: visible;
+		width: 39px;
+		white-space: nowrap;
+		line-height: 20px;
+		margin-top: -3.5px;
+		text-align: left;
+		font-family: Gotham, Gotham;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 13px;
+		color: rgba(255,255,255,1);
+	}
+	#Group_11 {
+		position: absolute;
+		width: 225px;
+		height: 55px;
+		left: 0px;
+		top: 275px;
+		overflow: visible;
+	}
+	.Rectangle_1492_fq {
+		position: absolute;
+		overflow: visible;
+		width: 225px;
+		height: 55px;
+		left: 0px;
+		top: 0px;
+	}
+	#Changes {
+		opacity: 0.8;
+		position: absolute;
+		left: 50px;
+		top: 23px;
+		overflow: visible;
+		width: 53px;
+		white-space: nowrap;
+		line-height: 20px;
+		margin-top: -3.5px;
+		text-align: left;
+		font-family: Gotham, Gotham;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 13px;
+		color: rgba(255,255,255,1);
+	}
+	#Group_12 {
+		position: absolute;
+		width: 225px;
+		height: 55px;
+		left: 0px;
+		top: 330px;
+		overflow: visible;
+	}
+	.Rectangle_1492_ft {
+		position: absolute;
+		overflow: visible;
+		width: 225px;
+		height: 55px;
+		left: 0px;
+		top: 0px;
+	}
+	#References {
+		opacity: 0.8;
+		position: absolute;
+		left: 50px;
+		top: 23px;
+		overflow: visible;
+		width: 67px;
+		white-space: nowrap;
+		line-height: 20px;
+		margin-top: -3.5px;
+		text-align: left;
+		font-family: Gotham, Gotham;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 13px;
+		color: rgba(255,255,255,1);
+	}
+	#Group_13 {
+		position: absolute;
+		width: 225px;
+		height: 55px;
+		left: 0px;
+		top: 385px;
+		overflow: visible;
+	}
+	.Rectangle_1492_fw {
+		position: absolute;
+		overflow: visible;
+		width: 225px;
+		height: 55px;
+		left: 0px;
+		top: 0px;
+	}
+	#Resources {
+		opacity: 0.8;
+		position: absolute;
+		left: 50px;
+		top: 23px;
+		overflow: visible;
+		width: 63px;
+		white-space: nowrap;
+		line-height: 20px;
+		margin-top: -3.5px;
+		text-align: left;
+		font-family: Gotham, Gotham;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 13px;
+		color: rgba(255,255,255,1);
+	}
+	#Group_13_fy {
+		position: absolute;
+		width: 225px;
+		height: 55px;
+		left: 0px;
+		top: 439px;
+		overflow: visible;
+	}
+	.Rectangle_1492_fz {
+		position: absolute;
+		overflow: visible;
+		width: 225px;
+		height: 55px;
+		left: 0px;
+		top: 0px;
+	}
+	#Action_Items_f {
+		opacity: 0.8;
+		position: absolute;
+		left: 50px;
+		top: 23px;
+		overflow: visible;
+		width: 73px;
+		white-space: nowrap;
+		line-height: 20px;
+		margin-top: -3.5px;
+		text-align: left;
+		font-family: Gotham, Gotham;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 13px;
+		color: rgba(255,255,255,1);
+	}
+	#Repeat_Grid_12 {
+		position: absolute;
+		width: 225px;
+		height: 174px;
+		left: 10px;
+		top: 577px;
+		overflow: hidden;
+	}
+	#Group_296 {
+		position: absolute;
+		width: 225px;
+		height: 55px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	.Rectangle_1492_f {
+		position: absolute;
+		overflow: visible;
+		width: 225px;
+		height: 55px;
+		left: 0px;
+		top: 0px;
+	}
+	#Requirements {
+		opacity: 0.8;
+		position: absolute;
+		left: 50px;
+		top: 23px;
+		overflow: visible;
+		width: 82px;
+		white-space: nowrap;
+		line-height: 20px;
+		margin-top: -3.5px;
+		text-align: left;
+		font-family: Gotham, Gotham;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 13px;
+		color: rgba(255,255,255,1);
+	}
+	#Group_296_f {
+		position: absolute;
+		width: 225px;
+		height: 55px;
+		left: 0px;
+		top: 55px;
+		overflow: visible;
+	}
+	.Rectangle_1492_ga {
+		position: absolute;
+		overflow: visible;
+		width: 225px;
+		height: 55px;
+		left: 0px;
+		top: 0px;
+	}
+	#Decisions {
+		opacity: 0.8;
+		position: absolute;
+		left: 50px;
+		top: 23px;
+		overflow: visible;
+		width: 57px;
+		white-space: nowrap;
+		line-height: 20px;
+		margin-top: -3.5px;
+		text-align: left;
+		font-family: Gotham, Gotham;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 13px;
+		color: rgba(255,255,255,1);
+	}
+	#Group_296_ga {
+		position: absolute;
+		width: 225px;
+		height: 55px;
+		left: 0px;
+		top: 110px;
+		overflow: visible;
+	}
+	.Rectangle_1492_gb {
+		position: absolute;
+		overflow: visible;
+		width: 225px;
+		height: 55px;
+		left: 0px;
+		top: 0px;
+	}
+	#Risks {
+		opacity: 0.8;
+		position: absolute;
+		left: 50px;
+		top: 23px;
+		overflow: visible;
+		width: 33px;
+		white-space: nowrap;
+		line-height: 20px;
+		margin-top: -3.5px;
+		text-align: left;
+		font-family: Gotham, Gotham;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 13px;
+		color: rgba(255,255,255,1);
+	}
+	#Group_296_gb {
+		position: absolute;
+		width: 225px;
+		height: 55px;
+		left: 0px;
+		top: 165px;
+		overflow: visible;
+	}
+	.Rectangle_1492_gc {
+		position: absolute;
+		overflow: visible;
+		width: 225px;
+		height: 55px;
+		left: 0px;
+		top: 0px;
+	}
+	#Risks_gd {
+		opacity: 0.8;
+		position: absolute;
+		left: 50px;
+		top: 23px;
+		overflow: visible;
+		width: 33px;
+		white-space: nowrap;
+		line-height: 20px;
+		margin-top: -3.5px;
+		text-align: left;
+		font-family: Gotham, Gotham;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 13px;
+		color: rgba(255,255,255,1);
 	}
 </style>
 <script id="applicationScript">
@@ -3759,7 +4233,7 @@ window.application = new Application();
 <body>
 <div id="Action_Items">
 	<svg class="Rectangle_1493">
-		<rect fill="rgba(23,43,77,1)" id="Rectangle_1493" rx="0" ry="0" x="0" y="0" width="1301" height="378">
+		<rect fill="rgba(23,43,77,1)" id="Rectangle_1493" rx="0" ry="0" x="0" y="0" width="1121" height="378">
 		</rect>
 	</svg>
 	<div id="Group_15">
@@ -3808,9 +4282,9 @@ window.application = new Application();
 	<div id="Group_14">
 		<div id="Mask_Group_1">
 		<svg style="width:inherit;height:inherit;overflow:visible;">
-			<rect fill="url(#Mask_Group_1_e_pattern)" width="100%" height="100%"></rect>
-				<pattern elementId="Mask_Group_1_e" id="Mask_Group_1_e_pattern" x="0" y="0" width="100%" height="100%">
-					<image x="0" y="0" width="100%" height="100%" href="Mask_Group_1_e_pattern.png" xlink:href="Mask_Group_1_e_pattern.png"></image>
+			<rect fill="url(#Mask_Group_1_ge_pattern)" width="100%" height="100%"></rect>
+				<pattern elementId="Mask_Group_1_ge" id="Mask_Group_1_ge_pattern" x="0" y="0" width="100%" height="100%">
+					<image x="0" y="0" width="100%" height="100%" href="Mask_Group_1_ge_pattern.png" xlink:href="Mask_Group_1_ge_pattern.png"></image>
 				</pattern>
 				</svg>
 			</div>
@@ -3820,26 +4294,6 @@ window.application = new Application();
 	</div>
 	<div id="Some_Project">
 		<span>Some Project</span>
-	</div>
-	<div id="Group_171">
-		<svg class="Rectangle_1490">
-			<rect fill="rgba(31,31,31,1)" id="Rectangle_1490" rx="0" ry="0" x="0" y="0" width="65" height="2008">
-			</rect>
-		</svg>
-		<div id="bar_chart_2" class="bar_chart_2">
-			<svg class="Line_1" viewBox="0 0 2 16">
-				<path fill="transparent" stroke="rgba(255,255,255,1)" stroke-width="2px" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" shape-rendering="auto" id="Line_1" d="M 0 16 L 0 0">
-				</path>
-			</svg>
-			<svg class="Line_2" viewBox="0 0 2 16">
-				<path fill="transparent" stroke="rgba(255,255,255,1)" stroke-width="2px" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" shape-rendering="auto" id="Line_2" d="M 0 16 L 0 0">
-				</path>
-			</svg>
-			<svg class="Line_3" viewBox="0 0 2 16">
-				<path fill="transparent" stroke="rgba(255,255,255,1)" stroke-width="2px" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" shape-rendering="auto" id="Line_3" d="M 0 16 L 0 0">
-				</path>
-			</svg>
-		</div>
 	</div>
 	<div id="Group_16">
 		<div id="home" class="home">
@@ -3852,26 +4306,26 @@ window.application = new Application();
 				</path>
 			</svg>
 		</div>
-		<div id="Home_b">
+		<div id="Home_bu">
 			<span>Home</span>
 		</div>
 		<div id="_">
 			<span>-</span>
 		</div>
-		<div id="Action_Items_b">
+		<div id="Action_Items_bw">
 			<span>Action Items</span>
 		</div>
 	</div>
 	<div id="Group_297">
 		<svg class="Rectangle_1497">
-			<rect fill="rgba(255,255,255,1)" id="Rectangle_1497" rx="10" ry="10" x="0" y="0" width="740" height="552">
+			<rect fill="rgba(255,255,255,1)" id="Rectangle_1497" rx="10" ry="10" x="0" y="0" width="753" height="552">
 			</rect>
 		</svg>
 		<div id="Edit_Profile">
 			<span>Edit Profile</span>
 		</div>
-		<svg class="Line_41" viewBox="0 0 740 0.5">
-			<path fill="transparent" stroke="rgba(136,152,170,1)" stroke-width="0.5px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="Line_41" d="M 0 0 L 740 0">
+		<svg class="Line_41" viewBox="0 0 753 0.5">
+			<path fill="transparent" stroke="rgba(136,152,170,1)" stroke-width="0.5px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="Line_41" d="M 0 0 L 752.999755859375 0">
 			</path>
 		</svg>
 		<div id="Group_190">
@@ -3902,8 +4356,8 @@ window.application = new Application();
 	</div>
 	<div id="Group_301">
 		<div id="Group_198">
-			<svg class="Rectangle_1489_ci">
-				<rect fill="rgba(247,250,252,1)" id="Rectangle_1489_ci" rx="5" ry="5" x="0" y="0" width="670" height="100">
+			<svg class="Rectangle_1489_cc">
+				<rect fill="rgba(247,250,252,1)" id="Rectangle_1489_cc" rx="5" ry="5" x="0" y="0" width="683" height="100">
 				</rect>
 			</svg>
 			<div id="Excepteur_sint_occaecat_cupida">
@@ -3915,8 +4369,8 @@ window.application = new Application();
 		</div>
 		<div id="Group_300">
 			<div id="Group_22">
-				<svg class="Rectangle_1498_cn">
-					<rect fill="rgba(119,100,228,1)" id="Rectangle_1498_cn" rx="5" ry="5" x="0" y="0" width="100" height="45">
+				<svg class="Rectangle_1498_ch">
+					<rect fill="rgba(119,100,228,1)" id="Rectangle_1498_ch" rx="5" ry="5" x="0" y="0" width="100" height="45">
 					</rect>
 				</svg>
 				<div id="Update">
@@ -3924,8 +4378,8 @@ window.application = new Application();
 				</div>
 			</div>
 			<div id="Group_23">
-				<svg class="Rectangle_1498_cq">
-					<rect fill="rgba(255,255,255,1)" stroke="rgba(245,60,86,1)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="Rectangle_1498_cq" rx="5" ry="5" x="0" y="0" width="100" height="45">
+				<svg class="Rectangle_1498_ck">
+					<rect fill="rgba(255,255,255,1)" stroke="rgba(245,60,86,1)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="Rectangle_1498_ck" rx="5" ry="5" x="0" y="0" width="100" height="45">
 					</rect>
 				</svg>
 				<div id="Delete">
@@ -3933,8 +4387,8 @@ window.application = new Application();
 				</div>
 			</div>
 		</div>
-		<svg class="Rectangle_1489_cs">
-			<rect fill="rgba(247,250,252,1)" id="Rectangle_1489_cs" rx="5" ry="5" x="0" y="0" width="526" height="50">
+		<svg class="Rectangle_1489_cm">
+			<rect fill="rgba(247,250,252,1)" id="Rectangle_1489_cm" rx="5" ry="5" x="0" y="0" width="526" height="50">
 			</rect>
 		</svg>
 		<div id="Status_Description">
@@ -3946,7 +4400,7 @@ window.application = new Application();
 	</div>
 	<div id="Group_318">
 		<svg class="Rectangle_1531">
-			<rect fill="rgba(255,255,255,1)" id="Rectangle_1531" rx="10" ry="10" x="0" y="0" width="741" height="396">
+			<rect fill="rgba(255,255,255,1)" id="Rectangle_1531" rx="10" ry="10" x="0" y="0" width="754" height="396">
 			</rect>
 		</svg>
 		<div id="button_normal" class="button_normal">
@@ -3965,11 +4419,11 @@ window.application = new Application();
 	<div id="Group_330">
 		<div id="Group_319">
 			<div id="Group_193">
-				<svg class="Rectangle_1489_c">
-					<rect fill="rgba(247,250,252,1)" id="Rectangle_1489_c" rx="5" ry="5" x="0" y="0" width="96" height="50">
+				<svg class="Rectangle_1489_cy">
+					<rect fill="rgba(247,250,252,1)" id="Rectangle_1489_cy" rx="5" ry="5" x="0" y="0" width="96" height="50">
 					</rect>
 				</svg>
-				<div id="Closed_c">
+				<div id="Closed_cz">
 					<span>Closed</span>
 				</div>
 			</div>
@@ -3990,9 +4444,9 @@ window.application = new Application();
 	</div>
 	<div id="Group_320">
 		<div id="Group_303">
-			<div id="Group_193_dc">
-				<svg class="Rectangle_1489_dd">
-					<rect fill="rgba(247,250,252,1)" id="Rectangle_1489_dd" rx="5" ry="5" x="0" y="0" width="454" height="50">
+			<div id="Group_193_c">
+				<svg class="Rectangle_1489_c">
+					<rect fill="rgba(247,250,252,1)" id="Rectangle_1489_c" rx="5" ry="5" x="0" y="0" width="454" height="50">
 					</rect>
 				</svg>
 				<div id="Samantha_Ivy">
@@ -4003,30 +4457,30 @@ window.application = new Application();
 				<span>Resource</span>
 			</div>
 		</div>
-		<div id="button_next_dg" class="button_next">
-			<svg class="Rectangle_156_dh">
-				<rect fill="rgba(255,255,255,1)" stroke="rgba(232,233,236,1)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="Rectangle_156_dh" rx="4" ry="4" x="0" y="0" width="27" height="27">
+		<div id="button_next_da" class="button_next">
+			<svg class="Rectangle_156_db">
+				<rect fill="rgba(255,255,255,1)" stroke="rgba(232,233,236,1)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="Rectangle_156_db" rx="4" ry="4" x="0" y="0" width="27" height="27">
 				</rect>
 			</svg>
-			<svg class="Path_294_di" viewBox="1803.616 4362.342 7.57 12.934">
-				<path fill="transparent" stroke="rgba(136,152,170,1)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="Path_294_di" d="M 1803.61572265625 4362.341796875 C 1803.61572265625 4362.341796875 1811.185791015625 4369.0732421875 1811.185791015625 4369.0732421875 C 1811.185791015625 4369.0732421875 1803.61572265625 4375.275390625 1803.61572265625 4375.275390625">
+			<svg class="Path_294_dc" viewBox="1803.616 4362.342 7.57 12.934">
+				<path fill="transparent" stroke="rgba(136,152,170,1)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="Path_294_dc" d="M 1803.61572265625 4362.341796875 C 1803.61572265625 4362.341796875 1811.185791015625 4369.0732421875 1811.185791015625 4369.0732421875 C 1811.185791015625 4369.0732421875 1803.61572265625 4375.275390625 1803.61572265625 4375.275390625">
 				</path>
 			</svg>
 		</div>
 	</div>
 	<div id="Group_323">
 		<div id="Referrer">
-			<div id="Show_More_Link_dl">
+			<div id="Show_More_Link_df">
 				<span>Show More</span>
 			</div>
-			<div id="Action_Items_dm">
+			<div id="Action_Items_dg">
 				<span>Action Items</span>
 			</div>
 		</div>
 		<div id="Req_list">
 			<div id="Table">
 				<div id="row_invoice">
-					<div id="row_invoice_dq">
+					<div id="row_invoice_dk">
 						<svg class="Divider">
 							<rect fill="rgba(241,241,243,1)" stroke="rgba(112,112,112,1)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="Divider" rx="0" ry="0" x="0" y="0" width="1078.96" height="1">
 							</rect>
@@ -4041,26 +4495,26 @@ window.application = new Application();
 						<div id="ID1">
 							<span>1</span>
 						</div>
-						<div id="Some_Action_Item_dv">
+						<div id="Some_Action_Item_dp">
 							<span>Some Action Item</span>
 						</div>
-						<div id="Excepteur_sint_occaecat_cupida_dw">
+						<div id="Excepteur_sint_occaecat_cupida_dq">
 							<span>Excepteur sint occaecat cupidatat non proident…</span>
 						</div>
 						<div id="ID9_15_2020">
 							<span>9/15/2020</span>
 						</div>
-						<div id="ID9_15_2020_dy">
+						<div id="ID9_15_2020_ds">
 							<span>9/15/2020</span>
 						</div>
 					</div>
-					<div id="row_invoice_dz">
-						<svg class="Divider_d">
-							<rect fill="rgba(241,241,243,1)" stroke="rgba(112,112,112,1)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="Divider_d" rx="0" ry="0" x="0" y="0" width="1078.96" height="1">
+					<div id="row_invoice_dt">
+						<svg class="Divider_du">
+							<rect fill="rgba(241,241,243,1)" stroke="rgba(112,112,112,1)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="Divider_du" rx="0" ry="0" x="0" y="0" width="1078.96" height="1">
 							</rect>
 						</svg>
-						<svg class="Row_BG_d" viewBox="0 0 1078.96 50">
-							<path fill="rgba(255,255,255,1)" id="Row_BG_d" d="M 0 0 L 794.535400390625 0 L 1078.96044921875 0 L 1078.96044921875 50 L 0 50 L 0 0 Z">
+						<svg class="Row_BG_dv" viewBox="0 0 1078.96 50">
+							<path fill="rgba(255,255,255,1)" id="Row_BG_dv" d="M 0 0 L 794.535400390625 0 L 1078.96044921875 0 L 1078.96044921875 50 L 0 50 L 0 0 Z">
 							</path>
 						</svg>
 						<div id="ID8_31_2020">
@@ -4069,10 +4523,10 @@ window.application = new Application();
 						<div id="ID2">
 							<span>2</span>
 						</div>
-						<div id="Some_Action_Item_d">
+						<div id="Some_Action_Item_dy">
 							<span>Some Action Item</span>
 						</div>
-						<div id="Excepteur_sint_occaecat_cupida_d">
+						<div id="Excepteur_sint_occaecat_cupida_dz">
 							<span>Excepteur sint occaecat cupidatat non proident…</span>
 						</div>
 						<div id="ID9_15_2020_d">
@@ -4083,12 +4537,12 @@ window.application = new Application();
 						</div>
 					</div>
 					<div id="row_invoice_d">
-						<svg class="Divider_ea">
-							<rect fill="rgba(241,241,243,1)" stroke="rgba(112,112,112,1)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="Divider_ea" rx="0" ry="0" x="0" y="0" width="1078.96" height="1">
+						<svg class="Divider_d">
+							<rect fill="rgba(241,241,243,1)" stroke="rgba(112,112,112,1)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="Divider_d" rx="0" ry="0" x="0" y="0" width="1078.96" height="1">
 							</rect>
 						</svg>
-						<svg class="Row_BG_ea" viewBox="0 0 1078.96 50">
-							<path fill="rgba(255,255,255,1)" id="Row_BG_ea" d="M 0 0 L 794.535400390625 0 L 1078.96044921875 0 L 1078.96044921875 50 L 0 50 L 0 0 Z">
+						<svg class="Row_BG_d" viewBox="0 0 1078.96 50">
+							<path fill="rgba(255,255,255,1)" id="Row_BG_d" d="M 0 0 L 794.535400390625 0 L 1078.96044921875 0 L 1078.96044921875 50 L 0 50 L 0 0 Z">
 							</path>
 						</svg>
 						<div id="ID9_15_2020_eb">
@@ -4097,72 +4551,72 @@ window.application = new Application();
 						<div id="ID3">
 							<span>3</span>
 						</div>
-						<div id="Some_Action_Item_ed">
+						<div id="Some_Action_Item_d">
 							<span>Some Action Item</span>
 						</div>
-						<div id="Excepteur_sint_occaecat_cupida_ee">
+						<div id="Excepteur_sint_occaecat_cupida_d">
 							<span>Excepteur sint occaecat cupidatat non proident…</span>
 						</div>
-						<div id="ID9_15_2020_ef">
+						<div id="ID9_15_2020_ec">
 							<span>9/15/2020</span>
 						</div>
-						<div id="ID9_15_2020_eg">
+						<div id="ID9_15_2020_ed">
 							<span>9/15/2020</span>
 						</div>
 					</div>
-					<div id="row_invoice_eh">
-						<svg class="Divider_ei">
-							<rect fill="rgba(241,241,243,1)" stroke="rgba(112,112,112,1)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="Divider_ei" rx="0" ry="0" x="0" y="0" width="1078.96" height="1">
+					<div id="row_invoice_eb">
+						<svg class="Divider_ec">
+							<rect fill="rgba(241,241,243,1)" stroke="rgba(112,112,112,1)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="Divider_ec" rx="0" ry="0" x="0" y="0" width="1078.96" height="1">
 							</rect>
 						</svg>
-						<svg class="Row_BG_ej" viewBox="0 0 1078.96 50">
-							<path fill="rgba(255,255,255,1)" id="Row_BG_ej" d="M 0 0 L 794.535400390625 0 L 1078.96044921875 0 L 1078.96044921875 50 L 0 50 L 0 0 Z">
+						<svg class="Row_BG_ed" viewBox="0 0 1078.96 50">
+							<path fill="rgba(255,255,255,1)" id="Row_BG_ed" d="M 0 0 L 794.535400390625 0 L 1078.96044921875 0 L 1078.96044921875 50 L 0 50 L 0 0 Z">
 							</path>
 						</svg>
-						<div id="ID9_15_2020_ek">
+						<div id="ID9_15_2020_ee">
 							<span>9/15/2020</span>
 						</div>
 						<div id="ID4">
 							<span>4</span>
 						</div>
-						<div id="Some_Action_Item_em">
+						<div id="Some_Action_Item_eg">
 							<span>Some Action Item</span>
 						</div>
-						<div id="Excepteur_sint_occaecat_cupida_en">
+						<div id="Excepteur_sint_occaecat_cupida_eh">
 							<span>Excepteur sint occaecat cupidatat non proident…</span>
 						</div>
-						<div id="ID9_15_2020_eo">
+						<div id="ID9_15_2020_ei">
 							<span>9/15/2020</span>
 						</div>
-						<div id="ID9_15_2020_ep">
+						<div id="ID9_15_2020_ej">
 							<span>9/15/2020</span>
 						</div>
 					</div>
-					<div id="row_invoice_eq">
-						<svg class="Divider_er">
-							<rect fill="rgba(241,241,243,1)" stroke="rgba(112,112,112,1)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="Divider_er" rx="0" ry="0" x="0" y="0" width="1078.96" height="1">
+					<div id="row_invoice_ek">
+						<svg class="Divider_el">
+							<rect fill="rgba(241,241,243,1)" stroke="rgba(112,112,112,1)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="Divider_el" rx="0" ry="0" x="0" y="0" width="1078.96" height="1">
 							</rect>
 						</svg>
-						<svg class="Row_BG_es" viewBox="0 0 1078.96 50">
-							<path fill="rgba(255,255,255,1)" id="Row_BG_es" d="M 0 0 L 794.535400390625 0 L 1078.96044921875 0 L 1078.96044921875 50 L 0 50 L 0 0 Z">
+						<svg class="Row_BG_em" viewBox="0 0 1078.96 50">
+							<path fill="rgba(255,255,255,1)" id="Row_BG_em" d="M 0 0 L 794.535400390625 0 L 1078.96044921875 0 L 1078.96044921875 50 L 0 50 L 0 0 Z">
 							</path>
 						</svg>
-						<div id="ID9_15_2020_et">
+						<div id="ID9_15_2020_en">
 							<span>9/15/2020</span>
 						</div>
 						<div id="ID5">
 							<span>5</span>
 						</div>
-						<div id="Some_Action_Item_ev">
+						<div id="Some_Action_Item_ep">
 							<span>Some Action Item</span>
 						</div>
-						<div id="Excepteur_sint_occaecat_cupida_ew">
+						<div id="Excepteur_sint_occaecat_cupida_eq">
 							<span>Excepteur sint occaecat cupidatat non proident…</span>
 						</div>
-						<div id="ID9_15_2020_ex">
+						<div id="ID9_15_2020_er">
 							<span>9/15/2020</span>
 						</div>
-						<div id="ID9_15_2020_ey">
+						<div id="ID9_15_2020_es">
 							<span>9/15/2020</span>
 						</div>
 					</div>
@@ -4172,10 +4626,10 @@ window.application = new Application();
 						<rect fill="rgba(245,246,250,1)" id="Head_BG" rx="0" ry="0" x="0" y="0" width="694" height="45">
 						</rect>
 					</svg>
-					<div id="__e">
+					<div id="__ev">
 						<span>#</span>
 					</div>
-					<div id="Title_e">
+					<div id="Title_ew">
 						<span>Title</span>
 					</div>
 					<div id="Date_Raised">
@@ -4184,10 +4638,178 @@ window.application = new Application();
 					<div id="Date_Assigned">
 						<span>Date Assigned</span>
 					</div>
-					<div id="Description_e">
+					<div id="Description_ez">
 						<span>Description</span>
 					</div>
 				</div>
+			</div>
+		</div>
+	</div>
+	<div id="Group_346">
+		<svg class="Rectangle_1490">
+			<rect fill="rgba(31,31,31,1)" id="Rectangle_1490" rx="0" ry="0" x="0" y="0" width="245" height="1196">
+			</rect>
+		</svg>
+		<div id="Group_7">
+			<div id="bar_chart_2" class="bar_chart_2">
+				<svg class="Line_1" viewBox="0 0 2 10">
+					<path fill="transparent" stroke="rgba(255,255,255,1)" stroke-width="2px" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" shape-rendering="auto" id="Line_1" d="M 0 10 L 0 0">
+					</path>
+				</svg>
+				<svg class="Line_2" viewBox="0 0 2 16">
+					<path fill="transparent" stroke="rgba(255,255,255,1)" stroke-width="2px" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" shape-rendering="auto" id="Line_2" d="M 0 16 L 0 0">
+					</path>
+				</svg>
+				<svg class="Line_3" viewBox="0 0 2 6">
+					<path fill="transparent" stroke="rgba(255,255,255,1)" stroke-width="2px" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" shape-rendering="auto" id="Line_3" d="M 0 6 L 0 0">
+					</path>
+				</svg>
+			</div>
+			<div id="PMS">
+				<span>PMS</span>
+			</div>
+		</div>
+	</div>
+	<div id="Repeat_Grid_11">
+		<div id="Group_295">
+			<div id="Group_5">
+				<svg class="Rectangle_1491">
+					<rect fill="transparent" id="Rectangle_1491" rx="5" ry="5" x="0" y="0" width="225" height="55">
+					</rect>
+				</svg>
+				<a href="/home">
+				<div id="Home_fc">
+					<span>Home</span>
+				</div></a>
+			</div>
+			<div id="Group_6">
+				<svg class="Rectangle_1492">
+					<rect fill="transparent" id="Rectangle_1492" rx="5" ry="5" x="0" y="0" width="225" height="55">
+					</rect>
+				</svg>
+				<a href="/dashboard">
+				<div id="Dashboard">
+					<span>Dashboard</span>
+				</div></a>
+			</div>
+			<div id="Group_8">
+				<svg class="Rectangle_1492_fh">
+					<rect fill="transparent" id="Rectangle_1492_fh" rx="5" ry="5" x="0" y="0" width="225" height="55">
+					</rect>
+				</svg>
+				<a href="/deliverables">
+				<div id="Deliverables">
+					<span>Deliverables</span>
+				</div>
+				</a>
+			</div>
+			<div id="Group_9">
+				<svg class="Rectangle_1492_fk">
+					<rect fill="transparent" id="Rectangle_1492_fk" rx="5" ry="5" x="0" y="0" width="225" height="55">
+					</rect>
+				</svg>
+				<a href="/tasks">
+				<div id="Tasks">
+					<span>Tasks</span>
+				</div>
+				</a>
+			</div>
+			<div id="Group_10">
+				<svg class="Rectangle_1492_fn">
+					<rect fill="transparent" id="Rectangle_1492_fn" rx="5" ry="5" x="0" y="0" width="225" height="55">
+					</rect>
+				</svg>
+				<a href="/issues">
+				<div id="Issues">
+					<span>Issues</span>
+				</div>
+				</a>
+			</div>
+			<div id="Group_11">
+				<svg class="Rectangle_1492_fq">
+					<rect fill="transparent" id="Rectangle_1492_fq" rx="5" ry="5" x="0" y="0" width="225" height="55">
+					</rect>
+				</svg>
+				<a href="/changes">
+				<div id="Changes">
+					<span>Changes</span>
+				</div>
+				</a>
+			</div>
+			<div id="Group_12">
+				<svg class="Rectangle_1492_ft">
+					<rect fill="transparent" id="Rectangle_1492_ft" rx="5" ry="5" x="0" y="0" width="225" height="55">
+					</rect>
+				</svg>
+				<a href="/referenceDoc">
+				<div id="References">
+					<span>References</span>
+				</div>
+				</a>
+			</div>
+			<div id="Group_13">
+				<svg class="Rectangle_1492_fw">
+					<rect fill="transparent" id="Rectangle_1492_fw" rx="5" ry="5" x="0" y="0" width="225" height="55">
+					</rect>
+				</svg>
+				<a href="/resources">
+				<div id="Resources">
+					<span>Resources</span>
+				</div>
+				</a>
+			</div>
+			<div id="Group_13_fy">
+				<svg class="Rectangle_1492_fz">
+					<rect fill="transparent" id="Rectangle_1492_fz" rx="5" ry="5" x="0" y="0" width="225" height="55">
+					</rect>
+				</svg>
+				<div id="Action_Items_f">
+					<span>Action Items</span>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="Repeat_Grid_12">
+		<div id="Group_296">
+			<svg class="Rectangle_1492_f">
+				<rect fill="transparent" id="Rectangle_1492_f" rx="5" ry="5" x="0" y="0" width="225" height="55">
+				</rect>
+			</svg>
+			<a href="/requirements">
+			<div id="Requirements">
+				<span>Requirements</span>
+			</div>
+			</a>
+		</div>
+		<div id="Group_296_f">
+			<svg class="Rectangle_1492_ga">
+				<rect fill="transparent" id="Rectangle_1492_ga" rx="5" ry="5" x="0" y="0" width="225" height="55">
+				</rect>
+			</svg>
+			<a href="/decisions">
+			<div id="Decisions">
+				<span>Decisions</span>
+			</div>
+			</a>
+		</div>
+		<div id="Group_296_ga">
+			<svg class="Rectangle_1492_gb">
+				<rect fill="transparent" id="Rectangle_1492_gb" rx="5" ry="5" x="0" y="0" width="225" height="55">
+				</rect>
+			</svg>
+			<a href="/risks">
+			<div id="Risks">
+				<span>Risks</span>
+			</div>
+			</a>
+		</div>
+		<div id="Group_296_gb">
+			<svg class="Rectangle_1492_gc">
+				<rect fill="transparent" id="Rectangle_1492_gc" rx="5" ry="5" x="0" y="0" width="225" height="55">
+				</rect>
+			</svg>
+			<div id="Risks_gd">
+				<span>Risks</span>
 			</div>
 		</div>
 	</div>

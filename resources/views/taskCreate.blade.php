@@ -4083,7 +4083,8 @@ window.application = new Application();
 					</rect>
 				</svg>
 				<div id="Effort_Estimate_">
-					<span>Effort Estimate…</span>
+					<span>Effort Estimate in Hrs…
+						<input type="number" name="effort" min="1"max="999" value="5"></span>
 				</div>
 			</div>
 		</div>
@@ -4093,8 +4094,9 @@ window.application = new Application();
 					<rect fill="rgba(247,250,252,1)" id="Rectangle_1489_el" rx="5" ry="5" x="0" y="0" width="182" height="42">
 					</rect>
 				</svg>
+				Expected start
 				<div id="Expected_Start">
-					<span>Expected Start</span>
+					<span><input type="date" name="start" placeholder="Expected Start"></span>
 				</div>
 			</div>
 		</div>
@@ -4104,8 +4106,12 @@ window.application = new Application();
 					<rect fill="rgba(247,250,252,1)" id="Rectangle_1489_ep" rx="5" ry="5" x="0" y="0" width="182" height="42">
 					</rect>
 				</svg>
+				Expected End
 				<div id="Expected_End">
-					<span>Expected End</span>
+					
+					<span>
+					<input type="date" name="start" placeholder="Expected End">
+					</span>
 				</div>
 			</div>
 		</div>
@@ -4116,7 +4122,10 @@ window.application = new Application();
 					</rect>
 				</svg>
 				<div id="Enter_a_description_">
-					<span>Enter a description…</span>
+					<span>
+						Enter a description… <br>
+						<textarea name="message" placeholder="Enter a Description…" value="Random Description" rows="10" cols="30">This is a random description, which can be modified.</textarea>
+					</span>
 				</div>
 			</div>
 		</div>
@@ -4125,6 +4134,8 @@ window.application = new Application();
 			</rect>
 		</svg>
 		<div id="Group_22_ew">
+			<button onclick="alert('This Task has been created')">
+				<a href="/tasks">
 			<svg class="Rectangle_1498_ex">
 				<rect fill="rgba(119,100,228,1)" id="Rectangle_1498_ex" rx="5" ry="5" x="0" y="0" width="100" height="45">
 				</rect>
@@ -4132,8 +4143,11 @@ window.application = new Application();
 			<div id="Create">
 				<span>Create</span>
 			</div>
+		</a></button>
 		</div>
 		<div id="Group_23_ez">
+			<button onclick="alert('This Task has been CANCELED')">
+				<a href="/tasks">
 			<svg class="Rectangle_1498_e">
 				<rect fill="rgba(255,255,255,1)" stroke="rgba(245,60,86,1)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="Rectangle_1498_e" rx="5" ry="5" x="0" y="0" width="100" height="45">
 				</rect>
@@ -4141,6 +4155,7 @@ window.application = new Application();
 			<div id="Cancel">
 				<span>Cancel</span>
 			</div>
+		</a></button>
 		</div>
 		<div id="Group_193_e">
 			<svg class="Rectangle_1489_e">
@@ -4148,7 +4163,7 @@ window.application = new Application();
 				</rect>
 			</svg>
 			<div id="Enter_a_Title_">
-				<span>Enter a Title…</span>
+				<span>Enter a Title  <input type="text" name="title" placeholder="Enter a Title…" value="Random title"></span>
 			</div>
 		</div>
 		<div id="Group_193_fa">
@@ -4157,11 +4172,21 @@ window.application = new Application();
 				</rect>
 			</svg>
 			<div id="Related_Issues">
-				<span>Related Issues</span>
+				<span>Related Issue <br>
+						<input type="checkbox" name="1" value="Task1"> Issue 1 <br>
+						<input type="checkbox" name="2" value="Task2"> Issue 2 <br>
+						<input type="checkbox" name="1" value="Task1"> Issue 3</span>
 			</div>
 		</div>
 		<div id="Assign_Resource_">
-			<span>Assign Resource…</span>
+			<span>Assign Resource…
+				<select name="resourseList">
+					<option value="Arya">Arya</option>
+					<option value="JohnMiachel">John Miachel</option>
+					<option value="AlexSmith">Alex Smith</option>
+					<option value="SamanthaIvy">Samantha Ivy</option>
+					<option value="JohnDoe">John Doe</option>
+			</span>
 		</div>
 	</div>
 </div>

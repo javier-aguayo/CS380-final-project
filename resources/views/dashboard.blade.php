@@ -4884,9 +4884,10 @@ window.application = new Application();
 						<rect fill="transparent" id="Rectangle_1491" rx="5" ry="5" x="0" y="0" width="225" height="55">
 						</rect>
 					</svg>
+					<a href="/home">
 					<div id="Home">
 						<span>Home</span>
-					</div>
+					</div></a>
 				</div>
 				<div id="Group_6">
 					<svg class="Rectangle_1492">
@@ -4902,63 +4903,70 @@ window.application = new Application();
 						<rect fill="transparent" id="Rectangle_1492_fo" rx="5" ry="5" x="0" y="0" width="225" height="55">
 						</rect>
 					</svg>
+					<a href="/deliverables">
 					<div id="Deliverables_fp">
 						<span>Deliverables</span>
-					</div>
+					</div></a>
 				</div>
 				<div id="Group_9">
 					<svg class="Rectangle_1492_fr">
 						<rect fill="transparent" id="Rectangle_1492_fr" rx="5" ry="5" x="0" y="0" width="225" height="55">
 						</rect>
 					</svg>
+					<a href="/tasks">
 					<div id="Tasks_fs">
 						<span>Tasks</span>
-					</div>
+					</div></a>
 				</div>
 				<div id="Group_10">
 					<svg class="Rectangle_1492_fu">
 						<rect fill="transparent" id="Rectangle_1492_fu" rx="5" ry="5" x="0" y="0" width="225" height="55">
 						</rect>
 					</svg>
+					<a href="/issues">
 					<div id="Issues_fv">
 						<span>Issues</span>
-					</div>
+					</div></a>
 				</div>
 				<div id="Group_11">
 					<svg class="Rectangle_1492_fx">
 						<rect fill="transparent" id="Rectangle_1492_fx" rx="5" ry="5" x="0" y="0" width="225" height="55">
 						</rect>
 					</svg>
+					<a href="/changes">
 					<div id="Changes">
 						<span>Changes</span>
-					</div>
+					</div></a>
 				</div>
 				<div id="Group_12">
 					<svg class="Rectangle_1492_f">
 						<rect fill="transparent" id="Rectangle_1492_f" rx="5" ry="5" x="0" y="0" width="225" height="55">
 						</rect>
 					</svg>
+					<a href="/referenceDoc">
 					<div id="References">
 						<span>References</span>
-					</div>
+					</div></a>
 				</div>
 				<div id="Group_13">
 					<svg class="Rectangle_1492_ga">
 						<rect fill="transparent" id="Rectangle_1492_ga" rx="5" ry="5" x="0" y="0" width="225" height="55">
 						</rect>
 					</svg>
+					<a href="/resources">
 					<div id="Resources">
 						<span>Resources</span>
-					</div>
+					</div></a>
 				</div>
 				<div id="Group_13_f">
 					<svg class="Rectangle_1492_gb">
 						<rect fill="transparent" id="Rectangle_1492_gb" rx="5" ry="5" x="0" y="0" width="225" height="55">
 						</rect>
 					</svg>
+					<a href="/actionItems">
 					<div id="Action_Items">
 						<span>Action Items</span>
-					</div>
+					</div></a>
 				</div>
 			</div>
 		</div>
@@ -4968,27 +4976,30 @@ window.application = new Application();
 					<rect fill="transparent" id="Rectangle_1492_gc" rx="5" ry="5" x="0" y="0" width="225" height="55">
 					</rect>
 				</svg>
+				<a href="/requirements">
 				<div id="Requirements">
 					<span>Requirements</span>
-				</div>
+				</div></a>
 			</div>
 			<div id="Group_296_gc">
 				<svg class="Rectangle_1492_gd">
 					<rect fill="transparent" id="Rectangle_1492_gd" rx="5" ry="5" x="0" y="0" width="225" height="55">
 					</rect>
 				</svg>
+				<a href="/decisions">
 				<div id="Decisions">
 					<span>Decisions</span>
-				</div>
+				</div></a>
 			</div>
 			<div id="Group_296_gf">
 				<svg class="Rectangle_1492_gg">
 					<rect fill="transparent" id="Rectangle_1492_gg" rx="5" ry="5" x="0" y="0" width="225" height="55">
 					</rect>
 				</svg>
+				<a href="/risks">
 				<div id="Risks">
 					<span>Risks</span>
-				</div>
+				</div></a>
 			</div>
 			<div id="Group_296_gi">
 				<svg class="Rectangle_1492_gj">

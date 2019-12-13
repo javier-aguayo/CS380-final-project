@@ -3853,22 +3853,26 @@ window.application = new Application();
 		<div id="Group_333">
 			<div id="Group_300">
 				<div id="Group_22">
+					<button onclick="alert('This Reference Document has been uploaded')">
+						<a href="/referenceDoc">
 					<svg class="Rectangle_1498">
 						<rect fill="rgba(119,100,228,1)" id="Rectangle_1498" rx="5" ry="5" x="0" y="0" width="100" height="45">
 						</rect>
 					</svg>
 					<div id="Upload">
 						<span>Upload</span>
-					</div>
+					</div></a>
 				</div>
 				<div id="Group_23">
+					<button onclick="alert('This Reference Document has been CANCELED')">
+						<a href="/referenceDoc">
 					<svg class="Rectangle_1498_ec">
 						<rect fill="rgba(255,255,255,1)" stroke="rgba(245,60,86,1)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="Rectangle_1498_ec" rx="5" ry="5" x="0" y="0" width="100" height="45">
 						</rect>
 					</svg>
 					<div id="Cancel">
 						<span>Cancel</span>
-					</div>
+					</div></a>
 				</div>
 			</div>
 		</div>
@@ -3879,7 +3883,7 @@ window.application = new Application();
 					</rect>
 				</svg>
 				<div id="Enter_a_Title_">
-					<span>Enter a Title…</span>
+					<span>Enter a Title…  <input type="text" name="title" placeholder="Enter a Title…" value="Random title"></span>
 				</div>
 			</div>
 		</div>
@@ -3890,7 +3894,7 @@ window.application = new Application();
 					</rect>
 				</svg>
 				<div id="File_Name___jpg___png___docx__">
-					<span>File Name; .jpg, .png, .docx, .pdf, .txt</span>
+					<span>File Name; .jpg, .png, .docx, .pdf, .txt <input type="file" name="myFile"></span>
 				</div>
 			</div>
 		</div>
